@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-<img width="989" height="553" alt="image" src="https://github.com/user-attachments/assets/02f93737-3b07-46c5-b42e-255cc57ee393" />
+![Sales Dashboard](SalesPerformance.png)
 
 ## Project Overview
 
